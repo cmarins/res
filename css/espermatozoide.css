@@ -1,0 +1,21 @@
+body {
+  background-image: url(image/1.jpg);
+}
+
+ellipse {
+  fill: #fff;
+}
+
+path {
+  fill: green;
+  stroke: blue;
+  stroke-linecap: round;
+}
+
+.mid {
+  stroke-width: 10px;
+}
+
+.tail {
+  stroke-width: 1px;
+}

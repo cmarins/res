@@ -1,0 +1,18 @@
+#blog h3,h4 {
+text-align: center;
+}
+#blog .contenedor {
+display: flex; /*Flexible, todo flexible*/
+justify-content: center;
+flex-wrap: wrap; /*Si el contenido queda muy largo que siga abajo. Como una lista y no como una fila*/
+    
+}
+
+#blog article {
+margin: 15px;
+}
+
+#blog img {
+width: 100%;
+max-width: 280px;
+}
